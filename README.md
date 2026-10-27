@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Patrice 👋
 
-<!--
-**pinardo88/pinardo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artist, developer, and researcher exploring how animation and computer science can shape more expressive, responsive interactive systems.
+I'm interested in exploring Art in Tech and Tech in Art!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages**  
+Python • C# • JavaScript • TypeScript • HTML/CSS
+
+**Web & Interactive Systems**  
+React • Redux • Unity • Unreal Engine • VR/XR • Git
+
+**Physical Computing & Fabrication**  
+Microcontrollers • Circuits • 3D Printing • Laser Cutting • Onshape/CAD
+
+**Design & Animation**  
+Figma • Blender • Maya • Adobe Creative Suite • Toon Boom Harmony • TVPaint
+
+---
+
+## 📫 Connect
+
+🔗 LinkedIn: linkedin.com/in/patricepinardo
+
+___
+
+## 🎉 Fun Facts
+
+🏃 I took up running recently!
+🧩 Big fan of pattern finding games like Set
